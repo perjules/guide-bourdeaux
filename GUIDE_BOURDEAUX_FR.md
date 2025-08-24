@@ -7,8 +7,8 @@ Petit Guide pour:
     - [Comment Nous Trouver?](#comment-nous-trouver)
     - [Guide Pratique](#guide-pratique)
 - [Bourdeaux et les alentours](#bourdeaux)
-    - [Commerces](les-commerces)
-    - [Coin de Baignade](baignade-en-riviere)
+    - [Commerces](#les-commerces)
+    - [Coin de Baignade](#baignade-en-riviere)
 
 La Maison
 ---------

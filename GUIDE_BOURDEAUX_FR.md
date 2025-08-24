@@ -7,6 +7,8 @@ Petit Guide pour:
     - [Comment Nous Trouver?](#comment-nous-trouver)
     - [Guide Pratique](#guide-pratique)
 - [Bourdeaux et les alentours](#bourdeaux)
+    - [Commerces](les-commerces)
+    - [Coin de Baignade](baignade-en-riviere)
 
 La Maison
 ---------
@@ -101,9 +103,31 @@ Il en va de même pour les différents instruments de musique.
 
 Bourdeaux
 ---------
-Bourdeaux est un village typique de la Drôme Provençale d'environ 600 habitants. 
+Bourdeaux est un village typique de la Drôme Provençale avec que environ 600 habitants 
+mais plein de charme, de vie, de commerces, et autres services. 
 
-### Le Commerces
+### La Piscine
+Bourdeaux se dote d'une piscine publique à 500 m de la maison avec un grand bassin de nage 
+ainsi que une pataugeoire pour les tout petits. Elle est ouvert de juin à Août tous les jours sauf le lundi.
+
+Horaires du 1er Juillet au 31 Août 2025
+- Mardi - Samedi: 11h - 13h et 15h - 19h
+- Lundi: fermé
+
+### Baignade en Rivière
+Aller se rafraîchir dans un des nombreuses coins de baignade est en vrai plaisir pour grands et petits en période de grands chaleurs. 
+
+#### Le Gour du Saut
+La baignade la plus proche se trouve a la sortie di village en direction
+Saou ([lien maps](https://maps.app.goo.gl/dp5gH3oYhsEQxgEp8)). Garez vous sur le parking à cote de la
+baraque a frites des [Frères Patates](https://www.facebook.com/LesFreresPatates), qui vous préparent d'excellentes
+burgers et frites (il sont Belges) avec des produits locaux et de qualité.
+
+Pour la baignade passez sous le pont à gauche du parking et continuez vers la gauche pour quelques 200 m.
+Vous y trouvez ensuite de magnifiques trous d'eau pour vous rafraîchir, des mini cascades qui font office de toboggans.
+
+
+### Les Commerces
 #### Supermarchés
 - Bourdeaux:
     - [**Le Panier Sympa**](https://maps.app.goo.gl/EqrTturNXiQ8TqSz9), Bourdeaux: Petite supérette de dépannage très sympa avec une bonne selection de vins et autres produits locaux.
@@ -126,6 +150,15 @@ Fait également dépôt de pain, livre par une boulangerie locale, à mon avis d
 
 #### Boulangerie
 La boulangerie [**La Mie Temps**](https://maps.app.goo.gl/RsB2272H6GSj8gyZ6) offre des pains et viennoiseries correctes mais pas extraordinaires.
+
+### Bars & Restaurants
+
+### Médiathèque
+
+### Pharmacie
+
+
+
 
 
 
